@@ -1,0 +1,29 @@
+# Flask framework
+Flask==3.0.0  
+Flask-CORS
+
+# Authentication (Supabase)
+supabase
+
+# Database (MongoDB)
+pymongo
+
+# LinkedIn Data API (via RapidAPI)
+requests 
+
+# AI Model (Gemini API)
+google-genai
+
+# Email handling
+secure-smtplib
+email-validator
+
+# Payment Gateway (Stripe/Razorpay)
+stripe
+razorpay
+
+# Environment Variables
+python-dotenv
+
+# Utility Libraries
+uuid  
